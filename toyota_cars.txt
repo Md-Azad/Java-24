@@ -1,0 +1,2 @@
+ID: 1, Make: Toyota, Model: Corolla, Year: 2015, Color: Red, Price: 15000,00, Registration: ABC123
+ID: 4, Make: Toyota, Model: Camry, Year: 2020, Color: Black, Price: 24000,00, Registration: JKL012

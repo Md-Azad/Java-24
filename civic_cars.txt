@@ -1,0 +1,1 @@
+ID: 2, Make: Honda, Model: Civic, Year: 2018, Color: Blue, Price: 18000,00, Registration: DEF456
